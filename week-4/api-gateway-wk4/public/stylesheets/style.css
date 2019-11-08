@@ -1,0 +1,18 @@
+/*
+============================================
+; Title: style.css
+; Author: Professor Krasso
+; Date: 07 November 2019
+; Modified By: joshua Hughes
+; Description: Global Style Sheet
+;=============================================
+*/
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
